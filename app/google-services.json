@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "78939568099",
+    "firebase_url": "https://taller2-rv180800-default-rtdb.firebaseio.com",
+    "project_id": "taller2-rv180800",
+    "storage_bucket": "taller2-rv180800.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78939568099:android:23237927e76793c62052d6",
+        "android_client_info": {
+          "package_name": "edu.udb.taller2_rv180800"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78939568099-pn0hbmhrq5h8ah19n4n0f6jin2vcvdkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOBfifuy7hKzAEoUots8PNKCm13nSaGxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78939568099-pn0hbmhrq5h8ah19n4n0f6jin2vcvdkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

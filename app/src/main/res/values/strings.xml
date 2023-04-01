@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Taller2-RV180800</string>
+    <string name="opcion_menu1">Estudiantes</string>
+    <string name="opcion_menu2">Empleados</string>
+    <string name="mensaje_1">Se seleccionó el CRUD de Estudiantes</string>
+    <string name="mensaje_2">Se seleccionó el CRUD de Empleados</string>
+    <string name="mensaje_icono_telefono">Se seleccionó icono telefono</string>
+    <string name="mensaje_icono_camara">Se seleccionó icono camara</string>
+</resources>
